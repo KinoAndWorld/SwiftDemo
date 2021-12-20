@@ -9,33 +9,33 @@ import UIKit
 
 class HomeListAdapter: NSObject {
     var collectionView: UICollectionView?
-    
+
     var list: [HomeItem] = [] {
         didSet {
             collectionView?.reloadData()
         }
     }
-    
+
     init(collectionView: UICollectionView) {
         super.init()
-        
+
         self.collectionView = collectionView
         initView()
     }
-    
+
     func initView() {
         collectionView?.backgroundColor = .clear
         collectionView?.collectionViewLayout = flowLayout(itemCountOnLine: 2, margin: 16)
         collectionView?.register(R.nib.homeListItemCell)
-        
+
         collectionView?.dataSource = self
         collectionView?.delegate = self
     }
-    
+
     func flowLayout(itemCountOnLine: Int, margin: CGFloat) -> UICollectionViewFlowLayout {
         let layout = UICollectionViewFlowLayout()
         let lineItemCount = CGFloat(itemCountOnLine)
-        
+
         let itemw = (UIScreen.main.bounds.width - margin * (lineItemCount + 1)) / lineItemCount
         layout.itemSize = CGSize(width: itemw, height: itemw)
         layout.sectionInset = UIEdgeInsets(top: 20, left: margin, bottom: margin, right: margin)
@@ -60,7 +60,7 @@ extension HomeListAdapter: UICollectionViewDataSource, UICollectionViewDelegate 
         cell.backImageView.backgroundColor = .orange
         return cell
     }
-    
+
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         let item = list[indexPath.row]
         item.handler?()

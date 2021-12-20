@@ -17,7 +17,7 @@ struct HomeItem {
 }
 
 class ViewController: UIViewController {
-    
+
     // MARK: Variable
     private lazy var collectionView = UICollectionView(frame: .zero, collectionViewLayout: UICollectionViewLayout())
     private lazy var adapter: HomeListAdapter = {
@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         return adapter
     }()
     private var items: [HomeItem] = []
-    
+
     // MARK: LifeCycle
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -42,15 +42,15 @@ class ViewController: UIViewController {
         adapter = HomeListAdapter(collectionView: collectionView)
         adapter.list = items
     }
-    
+
     // MARK: Private
     private func configItems() {
         items = [
             HomeItem(title: "R.swift",
                      content: "",
                      handler: { [unowned self] in
-                         let vc = RSwiftDemoController()
-                         self.navigationController?.pushViewController(vc, animated: true)
+                         let dest = RSwiftDemoController()
+                         self.navigationController?.pushViewController(dest, animated: true)
                      }),
             HomeItem(title: "Hero",
                      content: "",
@@ -59,6 +59,5 @@ class ViewController: UIViewController {
                      })
         ]
     }
-    
-}
 
+}

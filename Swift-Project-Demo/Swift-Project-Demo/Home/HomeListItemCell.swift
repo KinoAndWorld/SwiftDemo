@@ -12,13 +12,12 @@ class HomeListItemCell: UICollectionViewCell {
     @IBOutlet weak var backImageView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var contentLabel: UILabel!
-    
+
     override func awakeFromNib() {
         super.awakeFromNib()
-        
+
         layer.masksToBounds = true
         layer.cornerRadius = 12
     }
-    
-    
+
 }
