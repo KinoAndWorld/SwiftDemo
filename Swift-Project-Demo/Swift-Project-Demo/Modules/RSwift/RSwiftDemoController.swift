@@ -13,7 +13,7 @@ class RSwiftDemoController: UIViewController {
         super.viewDidLoad()
 
         let color = R.color.someColor()
-        self.view.backgroundColor = color
+        self.view.backgroundColor = .white
 
         let img = R.image.icons8Infographic2()
         self.view.addSubview({

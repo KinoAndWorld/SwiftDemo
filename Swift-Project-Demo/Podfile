@@ -9,5 +9,7 @@ target 'Swift-Project-Demo' do
   pod 'R.swift'
   pod "SnapKit", '~> 5.0'
   pod 'SwiftLint', configurations: ['Debug']
-  
+
+  pod 'Hero'
+
 end

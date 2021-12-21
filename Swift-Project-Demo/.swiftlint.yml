@@ -1,6 +1,15 @@
+analyzer_rules: # 分析类型的规则
+  - unused_declaration
+  - unused_enumerated
+  - unused_import
+  - explicit_self
+
 disabled_rules: # 执行时排除掉的规则
+  - identifier_name
+  - type_name
 
 opt_in_rules: # 一些规则仅仅是可选的
+  - implicitly_unwrapped_optional
 
 excluded: # 执行 linting 时忽略的路径。 优先级比 `included` 更高。
   - Carthage

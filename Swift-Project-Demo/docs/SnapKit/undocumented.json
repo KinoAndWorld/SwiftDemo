@@ -1,0 +1,1769 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 30,
+      "symbol": "Constraint",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 49,
+      "symbol": "Constraint.layoutConstraints",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 51,
+      "symbol": "Constraint.isActive",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 219,
+      "symbol": "Constraint.install()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 224,
+      "symbol": "Constraint.uninstall()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 228,
+      "symbol": "Constraint.activate()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 232,
+      "symbol": "Constraint.deactivate()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 237,
+      "symbol": "Constraint.update(offset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 243,
+      "symbol": "Constraint.update(inset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 251,
+      "symbol": "Constraint.update(inset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 258,
+      "symbol": "Constraint.update(priority:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 264,
+      "symbol": "Constraint.update(priority:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 270,
+      "symbol": "Constraint.updateOffset(amount:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 273,
+      "symbol": "Constraint.updateInsets(amount:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 276,
+      "symbol": "Constraint.updatePriority(amount:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 279,
+      "symbol": "Constraint.updatePriorityRequired()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 282,
+      "symbol": "Constraint.updatePriorityHigh()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 285,
+      "symbol": "Constraint.updatePriorityMedium()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Constraint.swift",
+      "line": 288,
+      "symbol": "Constraint.updatePriorityLow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintConfig.swift",
+      "line": 26,
+      "symbol": "ConstraintInterfaceLayoutDirection",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintConfig.swift",
+      "line": 33,
+      "symbol": "ConstraintConfig",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintConfig.swift",
+      "line": 35,
+      "symbol": "ConstraintConfig.interfaceLayoutDirection",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintConstantTarget.swift",
+      "line": 31,
+      "symbol": "ConstraintConstantTarget",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 31,
+      "symbol": "ConstraintDSL",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 33,
+      "symbol": "ConstraintDSL.target",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 35,
+      "symbol": "ConstraintDSL.setLabel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 36,
+      "symbol": "ConstraintDSL.label()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 39,
+      "symbol": "ConstraintDSL",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 41,
+      "symbol": "ConstraintDSL.setLabel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 44,
+      "symbol": "ConstraintDSL.label()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 52,
+      "symbol": "ConstraintBasicAttributesDSL",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 54,
+      "symbol": "ConstraintBasicAttributesDSL",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 58,
+      "symbol": "ConstraintBasicAttributesDSL.left",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 62,
+      "symbol": "ConstraintBasicAttributesDSL.top",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 66,
+      "symbol": "ConstraintBasicAttributesDSL.right",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 70,
+      "symbol": "ConstraintBasicAttributesDSL.bottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 74,
+      "symbol": "ConstraintBasicAttributesDSL.leading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 78,
+      "symbol": "ConstraintBasicAttributesDSL.trailing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 82,
+      "symbol": "ConstraintBasicAttributesDSL.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 86,
+      "symbol": "ConstraintBasicAttributesDSL.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 90,
+      "symbol": "ConstraintBasicAttributesDSL.centerX",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 94,
+      "symbol": "ConstraintBasicAttributesDSL.centerY",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 98,
+      "symbol": "ConstraintBasicAttributesDSL.edges",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 102,
+      "symbol": "ConstraintBasicAttributesDSL.directionalEdges",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 106,
+      "symbol": "ConstraintBasicAttributesDSL.size",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 110,
+      "symbol": "ConstraintBasicAttributesDSL.center",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 116,
+      "symbol": "ConstraintAttributesDSL",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 118,
+      "symbol": "ConstraintAttributesDSL",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 123,
+      "symbol": "ConstraintAttributesDSL.baseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 128,
+      "symbol": "ConstraintAttributesDSL.lastBaseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 133,
+      "symbol": "ConstraintAttributesDSL.firstBaseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 140,
+      "symbol": "ConstraintAttributesDSL.leftMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 145,
+      "symbol": "ConstraintAttributesDSL.topMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 150,
+      "symbol": "ConstraintAttributesDSL.rightMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 155,
+      "symbol": "ConstraintAttributesDSL.bottomMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 160,
+      "symbol": "ConstraintAttributesDSL.leadingMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 165,
+      "symbol": "ConstraintAttributesDSL.trailingMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 170,
+      "symbol": "ConstraintAttributesDSL.centerXWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 175,
+      "symbol": "ConstraintAttributesDSL.centerYWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 180,
+      "symbol": "ConstraintAttributesDSL.margins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 185,
+      "symbol": "ConstraintAttributesDSL.directionalMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDSL.swift",
+      "line": 190,
+      "symbol": "ConstraintAttributesDSL.centerWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDescription.swift",
+      "line": 31,
+      "symbol": "ConstraintDescription",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDirectionalInsetTarget.swift",
+      "line": 31,
+      "symbol": "ConstraintDirectionalInsetTarget",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDirectionalInsets.swift",
+      "line": 33,
+      "symbol": "ConstraintDirectionalInsets",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDirectionalInsets.swift",
+      "line": 35,
+      "symbol": "ConstraintDirectionalInsets",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDirectionalInsets.swift",
+      "line": 45,
+      "symbol": "ConstraintDirectionalInsets",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintDirectionalInsets.swift",
+      "line": 60,
+      "symbol": "ConstraintDirectionalInsets",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintInsetTarget.swift",
+      "line": 31,
+      "symbol": "ConstraintInsetTarget",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintInsets.swift",
+      "line": 32,
+      "symbol": "ConstraintInsets",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintInsets.swift",
+      "line": 40,
+      "symbol": "ConstraintInsets",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintInsets.swift",
+      "line": 49,
+      "symbol": "ConstraintInsets",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintInsets.swift",
+      "line": 55,
+      "symbol": "ConstraintInsets",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintItem.swift",
+      "line": 31,
+      "symbol": "ConstraintItem",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintItem.swift",
+      "line": 47,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintItem.swift",
+      "line": 64,
+      "symbol": "ConstraintItem",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuide+Extensions.swift",
+      "line": 32,
+      "symbol": "ConstraintLayoutGuide.snp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuide.swift",
+      "line": 30,
+      "symbol": "ConstraintLayoutGuide",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuide.swift",
+      "line": 33,
+      "symbol": "ConstraintLayoutGuide",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuide.swift",
+      "line": 35,
+      "symbol": "ConstraintLayoutGuide",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuide.swift",
+      "line": 71,
+      "symbol": "ConstraintLayoutGuide",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift",
+      "line": 32,
+      "symbol": "ConstraintLayoutGuideDSL",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift",
+      "line": 35,
+      "symbol": "ConstraintLayoutGuideDSL.prepareConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift",
+      "line": 39,
+      "symbol": "ConstraintLayoutGuideDSL.makeConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift",
+      "line": 43,
+      "symbol": "ConstraintLayoutGuideDSL.remakeConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift",
+      "line": 47,
+      "symbol": "ConstraintLayoutGuideDSL.updateConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift",
+      "line": 51,
+      "symbol": "ConstraintLayoutGuideDSL.removeConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift",
+      "line": 55,
+      "symbol": "ConstraintLayoutGuideDSL.target",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutSupport.swift",
+      "line": 30,
+      "symbol": "ConstraintLayoutSupport",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutSupport.swift",
+      "line": 33,
+      "symbol": "ConstraintLayoutSupport",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutSupportDSL.swift",
+      "line": 32,
+      "symbol": "ConstraintLayoutSupportDSL",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutSupportDSL.swift",
+      "line": 34,
+      "symbol": "ConstraintLayoutSupportDSL.target",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutSupportDSL.swift",
+      "line": 45,
+      "symbol": "ConstraintLayoutSupportDSL.top",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutSupportDSL.swift",
+      "line": 49,
+      "symbol": "ConstraintLayoutSupportDSL.bottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintLayoutSupportDSL.swift",
+      "line": 53,
+      "symbol": "ConstraintLayoutSupportDSL.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 30,
+      "symbol": "ConstraintMaker",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 32,
+      "symbol": "ConstraintMaker.left",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 36,
+      "symbol": "ConstraintMaker.top",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 40,
+      "symbol": "ConstraintMaker.bottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 44,
+      "symbol": "ConstraintMaker.right",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 48,
+      "symbol": "ConstraintMaker.leading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 52,
+      "symbol": "ConstraintMaker.trailing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 56,
+      "symbol": "ConstraintMaker.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 60,
+      "symbol": "ConstraintMaker.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 64,
+      "symbol": "ConstraintMaker.centerX",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 68,
+      "symbol": "ConstraintMaker.centerY",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 73,
+      "symbol": "ConstraintMaker.baseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 77,
+      "symbol": "ConstraintMaker.lastBaseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 82,
+      "symbol": "ConstraintMaker.firstBaseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 87,
+      "symbol": "ConstraintMaker.leftMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 92,
+      "symbol": "ConstraintMaker.rightMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 97,
+      "symbol": "ConstraintMaker.topMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 102,
+      "symbol": "ConstraintMaker.bottomMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 107,
+      "symbol": "ConstraintMaker.leadingMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 112,
+      "symbol": "ConstraintMaker.trailingMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 117,
+      "symbol": "ConstraintMaker.centerXWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 122,
+      "symbol": "ConstraintMaker.centerYWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 126,
+      "symbol": "ConstraintMaker.edges",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 129,
+      "symbol": "ConstraintMaker.directionalEdges",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 132,
+      "symbol": "ConstraintMaker.size",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 135,
+      "symbol": "ConstraintMaker.center",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 140,
+      "symbol": "ConstraintMaker.margins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 145,
+      "symbol": "ConstraintMaker.directionalMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMaker.swift",
+      "line": 150,
+      "symbol": "ConstraintMaker.centerWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerEditable.swift",
+      "line": 31,
+      "symbol": "ConstraintMakerEditable",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerEditable.swift",
+      "line": 34,
+      "symbol": "ConstraintMakerEditable.multipliedBy(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerEditable.swift",
+      "line": 40,
+      "symbol": "ConstraintMakerEditable.dividedBy(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerEditable.swift",
+      "line": 45,
+      "symbol": "ConstraintMakerEditable.offset(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerEditable.swift",
+      "line": 51,
+      "symbol": "ConstraintMakerEditable.inset(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerEditable.swift",
+      "line": 59,
+      "symbol": "ConstraintMakerEditable.inset(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 31,
+      "symbol": "ConstraintMakerExtendable",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 33,
+      "symbol": "ConstraintMakerExtendable.left",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 38,
+      "symbol": "ConstraintMakerExtendable.top",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 43,
+      "symbol": "ConstraintMakerExtendable.bottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 48,
+      "symbol": "ConstraintMakerExtendable.right",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 53,
+      "symbol": "ConstraintMakerExtendable.leading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 58,
+      "symbol": "ConstraintMakerExtendable.trailing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 63,
+      "symbol": "ConstraintMakerExtendable.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 68,
+      "symbol": "ConstraintMakerExtendable.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 73,
+      "symbol": "ConstraintMakerExtendable.centerX",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 78,
+      "symbol": "ConstraintMakerExtendable.centerY",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 84,
+      "symbol": "ConstraintMakerExtendable.baseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 89,
+      "symbol": "ConstraintMakerExtendable.lastBaseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 95,
+      "symbol": "ConstraintMakerExtendable.firstBaseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 101,
+      "symbol": "ConstraintMakerExtendable.leftMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 107,
+      "symbol": "ConstraintMakerExtendable.rightMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 113,
+      "symbol": "ConstraintMakerExtendable.topMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 119,
+      "symbol": "ConstraintMakerExtendable.bottomMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 125,
+      "symbol": "ConstraintMakerExtendable.leadingMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 131,
+      "symbol": "ConstraintMakerExtendable.trailingMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 137,
+      "symbol": "ConstraintMakerExtendable.centerXWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 143,
+      "symbol": "ConstraintMakerExtendable.centerYWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 148,
+      "symbol": "ConstraintMakerExtendable.edges",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 152,
+      "symbol": "ConstraintMakerExtendable.directionalEdges",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 156,
+      "symbol": "ConstraintMakerExtendable.size",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 162,
+      "symbol": "ConstraintMakerExtendable.margins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 168,
+      "symbol": "ConstraintMakerExtendable.directionalMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerExtendable.swift",
+      "line": 174,
+      "symbol": "ConstraintMakerExtendable.centerWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerFinalizable.swift",
+      "line": 31,
+      "symbol": "ConstraintMakerFinalizable",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerFinalizable.swift",
+      "line": 40,
+      "symbol": "ConstraintMakerFinalizable.labeled(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerFinalizable.swift",
+      "line": 45,
+      "symbol": "ConstraintMakerFinalizable.constraint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+      "line": 31,
+      "symbol": "ConstraintMakerPriortizable",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+      "line": 34,
+      "symbol": "ConstraintMakerPriortizable.priority(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+      "line": 40,
+      "symbol": "ConstraintMakerPriortizable.priority(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+      "line": 47,
+      "symbol": "ConstraintMakerPriortizable.priorityRequired()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+      "line": 53,
+      "symbol": "ConstraintMakerPriortizable.priorityHigh()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+      "line": 59,
+      "symbol": "ConstraintMakerPriortizable.priorityMedium()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+      "line": 65,
+      "symbol": "ConstraintMakerPriortizable.priorityLow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+      "line": 31,
+      "symbol": "ConstraintMakerRelatable",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+      "line": 78,
+      "symbol": "ConstraintMakerRelatable.equalTo(_:_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+      "line": 83,
+      "symbol": "ConstraintMakerRelatable.equalToSuperview(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+      "line": 91,
+      "symbol": "ConstraintMakerRelatable.lessThanOrEqualTo(_:_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+      "line": 96,
+      "symbol": "ConstraintMakerRelatable.lessThanOrEqualToSuperview(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+      "line": 104,
+      "symbol": "ConstraintMakerRelatable.greaterThanOrEqualTo(_:_:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+      "line": 109,
+      "symbol": "ConstraintMakerRelatable.greaterThanOrEqualToSuperview(_:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMultiplierTarget.swift",
+      "line": 31,
+      "symbol": "ConstraintMultiplierTarget",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMultiplierTarget.swift",
+      "line": 33,
+      "symbol": "ConstraintMultiplierTarget.constraintMultiplierTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMultiplierTarget.swift",
+      "line": 39,
+      "symbol": "Int.constraintMultiplierTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMultiplierTarget.swift",
+      "line": 47,
+      "symbol": "UInt.constraintMultiplierTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMultiplierTarget.swift",
+      "line": 55,
+      "symbol": "Float.constraintMultiplierTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMultiplierTarget.swift",
+      "line": 63,
+      "symbol": "Double.constraintMultiplierTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintMultiplierTarget.swift",
+      "line": 71,
+      "symbol": "CGFloat.constraintMultiplierTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintOffsetTarget.swift",
+      "line": 31,
+      "symbol": "ConstraintOffsetTarget",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriority.swift",
+      "line": 30,
+      "symbol": "ConstraintPriority",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriority.swift",
+      "line": 33,
+      "symbol": "ConstraintPriority.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriority.swift",
+      "line": 39,
+      "symbol": "ConstraintPriority.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriority.swift",
+      "line": 43,
+      "symbol": "ConstraintPriority.required",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriority.swift",
+      "line": 47,
+      "symbol": "ConstraintPriority.high",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriority.swift",
+      "line": 51,
+      "symbol": "ConstraintPriority.medium",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriority.swift",
+      "line": 60,
+      "symbol": "ConstraintPriority.low",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriorityTarget.swift",
+      "line": 31,
+      "symbol": "ConstraintPriorityTarget",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriorityTarget.swift",
+      "line": 33,
+      "symbol": "ConstraintPriorityTarget.constraintPriorityTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriorityTarget.swift",
+      "line": 39,
+      "symbol": "Int.constraintPriorityTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriorityTarget.swift",
+      "line": 47,
+      "symbol": "UInt.constraintPriorityTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriorityTarget.swift",
+      "line": 55,
+      "symbol": "Float.constraintPriorityTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriorityTarget.swift",
+      "line": 63,
+      "symbol": "Double.constraintPriorityTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriorityTarget.swift",
+      "line": 71,
+      "symbol": "CGFloat.constraintPriorityTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintPriorityTarget.swift",
+      "line": 80,
+      "symbol": "UILayoutPriority.constraintPriorityTargetValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintRelatableTarget.swift",
+      "line": 31,
+      "symbol": "ConstraintRelatableTarget",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 34,
+      "symbol": "ConstraintView.snp_left",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 37,
+      "symbol": "ConstraintView.snp_top",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 40,
+      "symbol": "ConstraintView.snp_right",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 43,
+      "symbol": "ConstraintView.snp_bottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 46,
+      "symbol": "ConstraintView.snp_leading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 49,
+      "symbol": "ConstraintView.snp_trailing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 52,
+      "symbol": "ConstraintView.snp_width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 55,
+      "symbol": "ConstraintView.snp_height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 58,
+      "symbol": "ConstraintView.snp_centerX",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 61,
+      "symbol": "ConstraintView.snp_centerY",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 64,
+      "symbol": "ConstraintView.snp_baseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 68,
+      "symbol": "ConstraintView.snp_lastBaseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 72,
+      "symbol": "ConstraintView.snp_firstBaseline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 76,
+      "symbol": "ConstraintView.snp_leftMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 80,
+      "symbol": "ConstraintView.snp_topMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 84,
+      "symbol": "ConstraintView.snp_rightMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 88,
+      "symbol": "ConstraintView.snp_bottomMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 92,
+      "symbol": "ConstraintView.snp_leadingMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 96,
+      "symbol": "ConstraintView.snp_trailingMargin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 100,
+      "symbol": "ConstraintView.snp_centerXWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 104,
+      "symbol": "ConstraintView.snp_centerYWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 107,
+      "symbol": "ConstraintView.snp_edges",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 110,
+      "symbol": "ConstraintView.snp_size",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 113,
+      "symbol": "ConstraintView.snp_center",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 117,
+      "symbol": "ConstraintView.snp_margins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 121,
+      "symbol": "ConstraintView.snp_centerWithinMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 124,
+      "symbol": "ConstraintView.snp_prepareConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 129,
+      "symbol": "ConstraintView.snp_makeConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 134,
+      "symbol": "ConstraintView.snp_remakeConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 139,
+      "symbol": "ConstraintView.snp_updateConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 144,
+      "symbol": "ConstraintView.snp_removeConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView+Extensions.swift",
+      "line": 148,
+      "symbol": "ConstraintView.snp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView.swift",
+      "line": 31,
+      "symbol": "ConstraintView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView.swift",
+      "line": 32,
+      "symbol": "ConstraintView",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView.swift",
+      "line": 38,
+      "symbol": "ConstraintView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintView.swift",
+      "line": 67,
+      "symbol": "ConstraintView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 31,
+      "symbol": "ConstraintViewDSL",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 34,
+      "symbol": "ConstraintViewDSL.prepareConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 38,
+      "symbol": "ConstraintViewDSL.makeConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 42,
+      "symbol": "ConstraintViewDSL.remakeConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 46,
+      "symbol": "ConstraintViewDSL.updateConstraints(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 50,
+      "symbol": "ConstraintViewDSL.removeConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 54,
+      "symbol": "ConstraintViewDSL.contentHuggingHorizontalPriority",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 63,
+      "symbol": "ConstraintViewDSL.contentHuggingVerticalPriority",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 72,
+      "symbol": "ConstraintViewDSL.contentCompressionResistanceHorizontalPriority",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 81,
+      "symbol": "ConstraintViewDSL.contentCompressionResistanceVerticalPriority",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/ConstraintViewDSL.swift",
+      "line": 90,
+      "symbol": "ConstraintViewDSL.target",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/Debugging.swift",
+      "line": 32,
+      "symbol": "LayoutConstraint.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/LayoutConstraint.swift",
+      "line": 30,
+      "symbol": "LayoutConstraint",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/LayoutConstraint.swift",
+      "line": 31,
+      "symbol": "LayoutConstraint",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/LayoutConstraint.swift",
+      "line": 33,
+      "symbol": "LayoutConstraint.label",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/LayoutConstraintItem.swift",
+      "line": 31,
+      "symbol": "LayoutConstraintItem",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kino/SwiftDemo/Swift-Project-Demo/Pods/SnapKit/Source/UILayoutSupport+Extensions.swift",
+      "line": 32,
+      "symbol": "ConstraintLayoutSupport.snp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/kino/SwiftDemo/Swift-Project-Demo"
+}

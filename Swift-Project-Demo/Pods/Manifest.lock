@@ -1,4 +1,5 @@
 PODS:
+  - Hero (1.6.1)
   - R.swift (5.4.0):
     - R.swift.Library (~> 5.3.0)
   - R.swift.Library (5.3.0)
@@ -6,23 +7,26 @@ PODS:
   - SwiftLint (0.45.1)
 
 DEPENDENCIES:
+  - Hero
   - R.swift
   - SnapKit (~> 5.0)
   - SwiftLint
 
 SPEC REPOS:
   trunk:
+    - Hero
     - R.swift
     - R.swift.Library
     - SnapKit
     - SwiftLint
 
 SPEC CHECKSUMS:
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
   R.swift: c533450b0f7dc494e0993f5f1a1db925d84c3006
   R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
   SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
   SwiftLint: 06ac37e4d38c7068e0935bb30cda95f093bec761
 
-PODFILE CHECKSUM: ffd176b9c3588afb6c60427ab5fa2a4c4df39396
+PODFILE CHECKSUM: e98ecb9418380c719d13b32a7af489c5cf4330cf
 
 COCOAPODS: 1.11.0

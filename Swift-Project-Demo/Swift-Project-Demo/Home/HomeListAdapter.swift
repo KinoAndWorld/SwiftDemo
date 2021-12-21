@@ -57,12 +57,13 @@ extension HomeListAdapter: UICollectionViewDataSource, UICollectionViewDelegate 
         let item = list[indexPath.row]
         cell.titleLabel.text = item.title
         cell.contentLabel.text = item.content
-        cell.backImageView.backgroundColor = .orange
+        cell.backImageView.backgroundColor = item.color
+        cell.hero.id = item.title
         return cell
     }
 
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         let item = list[indexPath.row]
-        item.handler?()
+        item.handler?(item)
     }
 }

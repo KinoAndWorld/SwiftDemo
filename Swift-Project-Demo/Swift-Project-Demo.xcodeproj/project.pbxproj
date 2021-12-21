@@ -13,6 +13,8 @@
 		3835261227702BCA006B4887 /* RSwiftDemoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3835261127702BCA006B4887 /* RSwiftDemoController.swift */; };
 		3835290027702F40006B4887 /* YY-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 383528FF27702F40006B4887 /* YY-Regular.ttf */; };
 		383529032770486F006B4887 /* R.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 383529022770486F006B4887 /* R.generated.swift */; };
+		3835290527705BC0006B4887 /* HeroDemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3835290427705BC0006B4887 /* HeroDemoViewController.swift */; };
+		3835290827717055006B4887 /* JazzyDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3835290727717054006B4887 /* JazzyDemo.swift */; };
 		38433F34276C8F49002041D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38433F33276C8F49002041D6 /* AppDelegate.swift */; };
 		38433F36276C8F49002041D6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38433F35276C8F49002041D6 /* SceneDelegate.swift */; };
 		38433F38276C8F49002041D6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38433F37276C8F49002041D6 /* ViewController.swift */; };
@@ -31,6 +33,8 @@
 		3835261127702BCA006B4887 /* RSwiftDemoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSwiftDemoController.swift; sourceTree = "<group>"; };
 		383528FF27702F40006B4887 /* YY-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "YY-Regular.ttf"; sourceTree = "<group>"; };
 		383529022770486F006B4887 /* R.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = R.generated.swift; sourceTree = SOURCE_ROOT; };
+		3835290427705BC0006B4887 /* HeroDemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroDemoViewController.swift; sourceTree = "<group>"; };
+		3835290727717054006B4887 /* JazzyDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JazzyDemo.swift; sourceTree = "<group>"; };
 		38433F30276C8F49002041D6 /* Swift-Project-Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-Project-Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		38433F33276C8F49002041D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		38433F35276C8F49002041D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,16 +88,10 @@
 			path = RSwift;
 			sourceTree = "<group>";
 		};
-		3835260E2770220C006B4887 /* SwiftLint */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = SwiftLint;
-			sourceTree = "<group>";
-		};
 		3835260F27702214006B4887 /* Hero */ = {
 			isa = PBXGroup;
 			children = (
+				3835290427705BC0006B4887 /* HeroDemoViewController.swift */,
 			);
 			path = Hero;
 			sourceTree = "<group>";
@@ -101,11 +99,19 @@
 		383526102770221D006B4887 /* Modules */ = {
 			isa = PBXGroup;
 			children = (
+				383529062771703E006B4887 /* Jazzy */,
 				3835260F27702214006B4887 /* Hero */,
-				3835260E2770220C006B4887 /* SwiftLint */,
 				3835260D27702201006B4887 /* RSwift */,
 			);
 			path = Modules;
+			sourceTree = "<group>";
+		};
+		383529062771703E006B4887 /* Jazzy */ = {
+			isa = PBXGroup;
+			children = (
+				3835290727717054006B4887 /* JazzyDemo.swift */,
+			);
+			path = Jazzy;
 			sourceTree = "<group>";
 		};
 		38433F27276C8F48002041D6 = {
@@ -310,8 +316,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				38433F38276C8F49002041D6 /* ViewController.swift in Sources */,
+				3835290527705BC0006B4887 /* HeroDemoViewController.swift in Sources */,
 				383529032770486F006B4887 /* R.generated.swift in Sources */,
 				38433F34276C8F49002041D6 /* AppDelegate.swift in Sources */,
+				3835290827717055006B4887 /* JazzyDemo.swift in Sources */,
 				3835260A277020F1006B4887 /* HomeListItemCell.swift in Sources */,
 				3835261227702BCA006B4887 /* RSwiftDemoController.swift in Sources */,
 				38433F36276C8F49002041D6 /* SceneDelegate.swift in Sources */,
@@ -473,6 +481,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -502,6 +511,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
