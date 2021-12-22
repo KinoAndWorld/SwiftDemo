@@ -16,9 +16,7 @@
 		3835290527705BC0006B4887 /* HeroDemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3835290427705BC0006B4887 /* HeroDemoViewController.swift */; };
 		3835290827717055006B4887 /* JazzyDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3835290727717054006B4887 /* JazzyDemo.swift */; };
 		38433F34276C8F49002041D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38433F33276C8F49002041D6 /* AppDelegate.swift */; };
-		38433F36276C8F49002041D6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38433F35276C8F49002041D6 /* SceneDelegate.swift */; };
 		38433F38276C8F49002041D6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38433F37276C8F49002041D6 /* ViewController.swift */; };
-		38433F3B276C8F49002041D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38433F39276C8F49002041D6 /* Main.storyboard */; };
 		38433F3D276C8F4C002041D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38433F3C276C8F4C002041D6 /* Assets.xcassets */; };
 		38433F40276C8F4C002041D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38433F3E276C8F4C002041D6 /* LaunchScreen.storyboard */; };
 		386826CE276C9B2100F0DFF8 /* share_opt_star.svga in Resources */ = {isa = PBXBuildFile; fileRef = 386826CD276C9B2100F0DFF8 /* share_opt_star.svga */; };
@@ -37,9 +35,7 @@
 		3835290727717054006B4887 /* JazzyDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JazzyDemo.swift; sourceTree = "<group>"; };
 		38433F30276C8F49002041D6 /* Swift-Project-Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-Project-Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		38433F33276C8F49002041D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		38433F35276C8F49002041D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		38433F37276C8F49002041D6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		38433F3A276C8F49002041D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		38433F3C276C8F4C002041D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38433F3F276C8F4C002041D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		38433F41276C8F4C002041D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -141,8 +137,6 @@
 				386826CD276C9B2100F0DFF8 /* share_opt_star.svga */,
 				383528FF27702F40006B4887 /* YY-Regular.ttf */,
 				38433F33276C8F49002041D6 /* AppDelegate.swift */,
-				38433F35276C8F49002041D6 /* SceneDelegate.swift */,
-				38433F39276C8F49002041D6 /* Main.storyboard */,
 				38433F3C276C8F4C002041D6 /* Assets.xcassets */,
 				38433F3E276C8F4C002041D6 /* LaunchScreen.storyboard */,
 				38433F41276C8F4C002041D6 /* Info.plist */,
@@ -225,7 +219,6 @@
 				38433F40276C8F4C002041D6 /* LaunchScreen.storyboard in Resources */,
 				38433F3D276C8F4C002041D6 /* Assets.xcassets in Resources */,
 				38352609277020F1006B4887 /* HomeListItemCell.xib in Resources */,
-				38433F3B276C8F49002041D6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -322,7 +315,6 @@
 				3835290827717055006B4887 /* JazzyDemo.swift in Sources */,
 				3835260A277020F1006B4887 /* HomeListItemCell.swift in Sources */,
 				3835261227702BCA006B4887 /* RSwiftDemoController.swift in Sources */,
-				38433F36276C8F49002041D6 /* SceneDelegate.swift in Sources */,
 				3835260B277020F1006B4887 /* HomeListAdapter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -330,14 +322,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		38433F39276C8F49002041D6 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				38433F3A276C8F49002041D6 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		38433F3E276C8F4C002041D6 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -478,7 +462,7 @@
 				INFOPLIST_FILE = "Swift-Project-Demo/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -508,7 +492,7 @@
 				INFOPLIST_FILE = "Swift-Project-Demo/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;

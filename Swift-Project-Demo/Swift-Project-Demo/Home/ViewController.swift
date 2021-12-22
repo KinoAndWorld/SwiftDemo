@@ -35,7 +35,6 @@ class ViewController: UIViewController {
 
         title = "Swift Demo"
         view.backgroundColor = .white
-        navigationController?.hero.isEnabled = true
         hero.isEnabled = true
         // layout
         view.addSubview(collectionView)
@@ -60,12 +59,14 @@ class ViewController: UIViewController {
                      }),
             HomeItem(title: "Hero",
                      content: "",
-                     color: .orange,
+                     color: R.color.bH()!,
                      handler: { [unowned self] item in
                          let dest = HeroDemoViewController()
-                         dest.hero.isEnabled = true
                          dest.curHomeItem = item
-                         self.navigationController?.pushViewController(dest, animated: true)
+                         let navi = UINavigationController(rootViewController: dest)
+                         navi.modalPresentationStyle = .fullScreen
+                         navi.hero.isEnabled = true
+                         self.present(navi, animated: true, completion: nil)
                      })
         ]
     }

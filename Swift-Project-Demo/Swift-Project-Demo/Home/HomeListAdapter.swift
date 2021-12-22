@@ -59,6 +59,7 @@ extension HomeListAdapter: UICollectionViewDataSource, UICollectionViewDelegate 
         cell.contentLabel.text = item.content
         cell.backImageView.backgroundColor = item.color
         cell.hero.id = item.title
+        cell.titleLabel.hero.id = "label-\(item.title)"
         return cell
     }
 
