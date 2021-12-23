@@ -29,7 +29,6 @@ public protocol JazzyDemoProtocol {
     func funcB(b: String) -> Int
 }
 
-
 /// 关键类名 - JazzyDemo
 /// 作用是 🆙🆙🆙🆙🆙🆙🆙
 public class JazzyDemo {

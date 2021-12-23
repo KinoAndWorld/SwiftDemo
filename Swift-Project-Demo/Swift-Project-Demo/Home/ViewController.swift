@@ -71,6 +71,14 @@ class ViewController: UIViewController {
         ]
     }
 
+
+
+
+
+
+
+
+
     private func testCodeLint() {
         /// swiftlint:disable:next implicitly_unwrapped_optional
         var str: String! = "111"
@@ -80,26 +88,20 @@ class ViewController: UIViewController {
         let obj: Any? = 0
         _ = obj as! Int
 
-        print("str = \(str!), str2 = \(str2)")
+        print("str = \(str ?? ""), str2 = \(str2)")
 
-        let ret =     ["1","2","3"].map{str in
-            return "NO." + str
+        let ret = ["1","2","3"].map{ str in
+            return"NO." + str
         }
         print(ret)
 
-        let some_var: Int = 0
-        print(some_var)
+//        // identifier_name
+//        let some_var: Int = 0
+//        print(some_var)
     }
 }
 
-class AClass {
+// type_name & identifier_name
+// class aClass {
 //    let a = 1
-}
-
-
-struct A {
-    func f1() {}
-    func f2() {
-        f1()
-    }
-}
+// }

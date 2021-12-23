@@ -5,8 +5,8 @@ analyzer_rules: # 分析类型的规则
   - explicit_self
 
 disabled_rules: # 执行时排除掉的规则
-  - identifier_name
-  - type_name
+  # - identifier_name
+  # - type_name
 
 opt_in_rules: # 一些规则仅仅是可选的
   - implicitly_unwrapped_optional
@@ -25,6 +25,15 @@ force_try:
 # 隐式
 line_length: 200
 
-
+identifier_name:
+  min_length:
+    error: 1
+    warning: 2
+  max_length:
+    warning: 60
+    error: 100
+  # excluded:
+  #   - f1
+  #   - f2
 
 reporter: "xcode"
