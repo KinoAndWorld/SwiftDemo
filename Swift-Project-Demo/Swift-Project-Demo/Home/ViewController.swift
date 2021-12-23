@@ -35,7 +35,6 @@ class ViewController: UIViewController {
 
         title = "Swift Demo"
         view.backgroundColor = .white
-        hero.isEnabled = true
         // layout
         view.addSubview(collectionView)
         collectionView.snp.makeConstraints { make in
@@ -63,6 +62,7 @@ class ViewController: UIViewController {
                      handler: { [unowned self] item in
                          let dest = HeroDemoViewController()
                          dest.curHomeItem = item
+                         // present
                          let navi = UINavigationController(rootViewController: dest)
                          navi.modalPresentationStyle = .fullScreen
                          navi.hero.isEnabled = true

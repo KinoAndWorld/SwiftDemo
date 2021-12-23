@@ -16,6 +16,7 @@
 				7D9D277F159785F10B941F3B03B6D57E /* PBXTargetDependency */,
 			);
 			name = R.swift;
+			productName = R.swift;
 		};
 		52B60EC2A583F24ACBB69C113F5488B9 /* SwiftLint */ = {
 			isa = PBXAggregateTarget;
@@ -25,6 +26,7 @@
 			dependencies = (
 			);
 			name = SwiftLint;
+			productName = SwiftLint;
 		};
 /* End PBXAggregateTarget section */
 
@@ -306,7 +308,7 @@
 		979486118B3E90C08386079D57962701 /* SnapKit */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SnapKit; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BDE6152BBFF5CE8B6CD114AED5837F0 /* Pods-Swift-Project-Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Swift-Project-Demo.release.xcconfig"; sourceTree = "<group>"; };
 		9CAFD3CF5D54C10A66AB18315E91D4AD /* Pods-Swift-Project-Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Swift-Project-Demo.debug.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F5DB63FE92EF8A4AC2547D91E8997E8 /* R.swift.Library-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "R.swift.Library-umbrella.h"; sourceTree = "<group>"; };
 		A018DA17627F667B82D8E162188A25D1 /* NibResource+UIKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NibResource+UIKit.swift"; path = "Library/UIKit/NibResource+UIKit.swift"; sourceTree = "<group>"; };
 		A3BD09EABC0AC10517ABF5BC2D9CE724 /* Data+FileResource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Data+FileResource.swift"; path = "Library/Foundation/Data+FileResource.swift"; sourceTree = "<group>"; };
@@ -485,7 +487,6 @@
 			children = (
 				719EC9C79110BEBB4624D74E95693675 /* Support Files */,
 			);
-			name = SwiftLint;
 			path = SwiftLint;
 			sourceTree = "<group>";
 		};
@@ -494,7 +495,6 @@
 			children = (
 				1F0EE417001195CA7D3C2C8A3DFE6BD8 /* Support Files */,
 			);
-			name = R.swift;
 			path = R.swift;
 			sourceTree = "<group>";
 		};
@@ -560,7 +560,6 @@
 				D3072D31EFF33F5FAE499D4BCC2CBBB2 /* UILayoutSupport+Extensions.swift */,
 				40CF879021A8BC6380617671DC65A493 /* Support Files */,
 			);
-			name = SnapKit;
 			path = SnapKit;
 			sourceTree = "<group>";
 		};
@@ -630,14 +629,13 @@
 				28805D1484B962679712C9BA7134ED7F /* Parser.swift */,
 				19897CF800E8FFAF9F82ADE089E3E772 /* Regex.swift */,
 				540410D7D5D66F39EF0FB2FDABACB5E8 /* SourcePreprocessor.swift */,
+				4C50B6000063CCEE85182ADC6EB2EA51 /* Support Files */,
 				E2B8BAE77A89AC43FDBB8784F563CBCF /* SwiftSupport.swift */,
 				A6A6DA80D6073D72DB0A56FC3FAEDBD6 /* UIColor+HexString.swift */,
 				08D14CE1FB9F432775129EC7EC4CA9D3 /* UIKit+Hero.swift */,
 				5C3B00917E75082797A982261E9AD2D2 /* UIView+Hero.swift */,
 				42D0D8EC03AD5907D0B7257FC9539AAF /* UIViewController+Hero.swift */,
-				4C50B6000063CCEE85182ADC6EB2EA51 /* Support Files */,
 			);
-			name = Hero;
 			path = Hero;
 			sourceTree = "<group>";
 		};
@@ -673,7 +671,6 @@
 				7F147CDB5991642D4248CEBAF058542D /* Validatable.swift */,
 				FB6FCC5158421AF05311A6D75026546C /* Support Files */,
 			);
-			name = R.swift.Library;
 			path = R.swift.Library;
 			sourceTree = "<group>";
 		};

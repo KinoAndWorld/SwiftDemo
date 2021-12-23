@@ -19,7 +19,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         let viewController = ViewController()
         let navigationController = UINavigationController(rootViewController: viewController)
-        navigationController.hero.isEnabled = true // 开启hero
         window?.rootViewController = navigationController
         window?.makeKeyAndVisible()
 

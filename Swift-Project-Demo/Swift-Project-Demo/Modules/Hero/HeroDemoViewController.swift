@@ -34,7 +34,7 @@ class HeroDemoViewController: UIViewController {
 
     lazy var tableView: UITableView = {
         let table = UITableView()
-        table.hero.modifiers = [.cascade] // [.fade, .translate(CGPoint(x: 0, y: 100))]
+        table.hero.modifiers = [.cascade]
         table.dataSource = self
         table.delegate = self
         table.rowHeight = 50
